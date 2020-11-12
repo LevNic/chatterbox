@@ -3,6 +3,7 @@ import telebot
 from telebot.types import Message
 from config import TOKEN
 
+print(TOKEN)
 bot = telebot.TeleBot(token=TOKEN)
 text = 'Привет, я бот'
 
