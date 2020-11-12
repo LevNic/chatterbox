@@ -1,3 +1,0 @@
-BASE_URL = 'https://api.telegram.org/bot1275462716:AAHv0gNWP88FOixQRWJgwn0scYcgl3L0aYY/'
-
-TOKEN = '1275462716:AAHv0gNWP88FOixQRWJgwn0scYcgl3L0aYY'
